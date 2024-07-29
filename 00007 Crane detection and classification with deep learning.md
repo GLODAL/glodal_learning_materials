@@ -7,4 +7,4 @@ This section's outcome is enable coding on crane detection and classification in
 3. To understand practice on model evaluation using MMDetection
 4. To understand tips and hacks to improve model training and performance
 
-The contents are compiled into [a single JupyterNotebook](subsections/00007/Crane_detection.ipynb).
+The contents are compiled into [a single JupyterNotebook](subsections/00007/Crane_Detection.ipynb).
