@@ -1,3 +1,4 @@
+```
 Folder Structure
 -->training_material
 ------data                           # Directory with all image data along with annotation data
@@ -9,3 +10,4 @@ Folder Structure
 ------data_converted_to_coco.zip     # Zipped file of data_converted_to_coco
 ------data.zip                       # Zip file with all image data along with annotation data
 ------readme.md
+```
