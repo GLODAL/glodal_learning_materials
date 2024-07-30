@@ -1,6 +1,6 @@
 # Instructions for contributors
 
-This repository is owned by @heromiya and @ttdan1805 and the others does not have previledge to commit changes to the repositry. Contributores should fork the reposiry for your work and then create a pull request for the owner's review before merging your changes.
+This repository is owned by @heromiya and @ttdan1805 and the others do not have previledge to commit changes to the repositry. Contributores should fork the reposiry for your work and then create a pull request for the owner's review before merging your changes.
 
 Here is the steps to begin your works with the repositry.
 
