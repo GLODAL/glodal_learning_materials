@@ -9,3 +9,5 @@ Here is the steps to begin your works with the repositry.
 3. [Commit changes](https://docs.github.com/en/pull-requests/committing-changes-to-your-project) to the forked repositry.
 4. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) after completion of the work.
 5. The owner reviews your changes. The owner will comment and request revisions, or merge your changes to this repositry.
+
+Thank you for your supports!
