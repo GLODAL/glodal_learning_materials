@@ -8,7 +8,7 @@ Here is the steps to begin your works with the repositry.
 2. Work on the forked repositry.
 3. [Commit changes](https://docs.github.com/en/pull-requests/committing-changes-to-your-project) to the forked repositry.
 4. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) after completion of the work.
-5. The owner reviews your changes. The owner will comment and request revisions, or merge your changes to this repositry.
+5. The owner reviews your changes and will comment and request revisions, or merge your changes to this repositry.
 
 Large files cannot be contained in this repository. You should add a cell to download files from ownCloud where you need upload the files in advance.
 
