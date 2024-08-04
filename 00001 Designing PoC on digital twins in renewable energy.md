@@ -1,8 +1,8 @@
 # Module 1: Foundations for digital twins in renewable energy
 
-This learning material is designed for individuals with experience in renewable energy grid operations who seek to develop digital twins for Optimizing Photovoltaic (PV) installations and operations. The focus is on leveraging satellite and geospatial data to address key challenges such as balancing supply and demand, assessing real-time cloud impact on PV generation, and integrating data from various sources.
+This module is designed for individuals with experience in renewable energy grid operations who seek to develop digital twins for Optimizing Photovoltaic (PV) installations and operations. The focus is on leveraging satellite and geospatial data to address key challenges such as balancing supply and demand, assessing real-time cloud impact on PV generation, and integrating data from various sources.
 
-By the end of this course, participants will be able to:
+By the end of this module, participants will be able to:
 - Understand the concept of a digital twin in the context of renewable energy.
 - Evaluate PV potentials using satellite and geospatial data.
 - Design object detection models for electricity infrastructure.
