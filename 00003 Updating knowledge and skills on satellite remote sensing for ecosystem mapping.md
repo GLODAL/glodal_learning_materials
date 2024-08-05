@@ -1,7 +1,7 @@
 # 3.Updating knowledge and skills on satellite remote sensing for ecosystem mapping
 Here are the selected contents for the outcomes to achieve the persona's needs
 
-- [3.1. Up-to-date overviews satellite-derived parameters for assessing forestry ecosystems](subsections/00003/3.1.ecosystem.ipynb)
+- [3.1. Up-to-date overviews satellite-derived parameters for assessing forestry ecosystems](subsections/00003/3.1.ecosystem.md)
   - 3.1.1. Understand key satellite-derived parameters
     - 3.1.1.1 Catching up on the latest methods for assessing biomass estimation
     - 3.1.1.2 Catching up on the latest methods for accessing forest cover change
