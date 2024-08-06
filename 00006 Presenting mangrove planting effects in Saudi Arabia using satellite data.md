@@ -8,7 +8,7 @@ By the end of this module, participants will be able to:
 - Analyze time-series data to assess the effectiveness of mangrove planting efforts.
 
 ## Here is the content outline:
-### 6.1 Enable vegetation monitoring with a vegetation index using Google Earth Engine
+### 6.1 [Enable vegetation monitoring with a vegetation index using Google Earth Engine](subsections/00006/6.1.md)
 - 6.1.1 Introduction to GEE
 - 6.1.2 What are vegetation indices and their applications
 - 6.1.3 Monitoring vegetation with vegetation indices in GEE
