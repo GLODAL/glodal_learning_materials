@@ -13,7 +13,8 @@ By the end of this module, participants will be able to:
 - 6.1.2 What are vegetation indices and their applications
 - 6.1.3 Monitoring vegetation with vegetation indices in GEE
 ### 6.2 [Present satellite-based outputs with GEE apps](subsections/00006/6.2.md)
-### 6.3 [Present time-series/thematic comparisons on GEE apps](subsections/00006/6.3.md)
+
+### 6.3 Present time-series/thematic comparisons on GEE apps
 
 
 ```python
