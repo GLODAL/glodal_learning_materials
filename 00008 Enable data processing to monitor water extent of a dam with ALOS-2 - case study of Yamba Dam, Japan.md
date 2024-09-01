@@ -10,8 +10,7 @@ By the end of this module, participants will be able to:
 ### 8.1 [Python coding for reading and visualizing EO satellite data](subsections/00008/8.1.md)
 
 - 8.1.1 Introduction to ALOS-2 data 
-- 8.1.2 (Optional) Setting up the Python environment
-- 8.1.3 Reading and visualizing ALOS-2 data
+- 8.1.2 Reading and visualizing ALOS-2 data
 
 ### 8.2 [Methods and python coding for classifying water and non-water in SAR observations](subsections/00008/8.2.md)
 
