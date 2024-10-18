@@ -31,7 +31,9 @@ By the end of this module, participants will be able to:
 
 Link to the content (single JupyterNotebook)
 
-- [9.Enable ALOS-2 data processing to detect extension of oil palm plantations)](subsections/00009/9.Enable ALOS-2 data processing to detect extension of oil palm plantations_.ipynb)
+
+- [9. Enable ALOS-2 data processing to detect extension of oil palm plantations](subsections/00009/9.Enable%20ALOS-2%20data%20processing%20to%20detect%20extension%20of%20oil%20palm%20plantations_.ipynb)
+
 
 
 
