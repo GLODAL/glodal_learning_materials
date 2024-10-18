@@ -1,4 +1,9 @@
-# Module 9: Enable ALOS-2 data processing to detect extension of oil palm plantations, or deforestation, somewhere maybe IDN
+# Module 9: Enable ALOS-2 data processing to detect extension of oil palm plantations, or deforestation in Indonesia
+
+**Please add the outcomes of this module**
+
+**Learning objectives to be addes here**
+
 
 This section is designed for learners who are interested in detect extension of oil palm plantations, or deforestation with ALOS-2 - case study of Indonesia.
 
@@ -15,7 +20,7 @@ This section is designed for learners who are interested in detect extension of 
 
 - [9.4 (Optional) Classification of forest and oil palm (if any)](subsections/00009/9.4.md)
 
-
+Link to the content (single JupyterNotebook)
 
 
 
