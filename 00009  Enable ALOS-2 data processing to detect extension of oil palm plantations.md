@@ -1,13 +1,22 @@
-# Module 9: Enable ALOS-2 data processing to detect extension of oil palm plantations, or deforestation in Indonesia
+# Module 9: Enable ALOS-2 data processing to detect extension of oil palm plantations
 
 **Please add the outcomes of this module**
 
+This section is designed for learners who are interested in detect extension of oil palm plantations, or deforestation with ALOS-2 - case study of Indonesia. With access to ALOS-2 imagery from multiple years (e.g., 2007, 2010, 2015, 2023), long-term trends in deforestation and plantation expansion can be mapped. By comparing backscatter values over time, it becomes possible to see how oil palm plantations have increased, and how forest cover has declined.
+
+By the end of this module, participants will be able to:
+-  Understand ALOS-2 Data: Gain a comprehensive understanding of ALOS-2 satellite data, including its radar backscatter characteristics and polarization (HH and HV), particularly in relation to different land cover types like oil palm plantations, forests, urban areas, and water bodies.
+- Analyze Land Cover Changes: Use ALOS-2 data to identify and analyze land cover changes such as deforestation and the expansion of oil palm plantations, focusing on how backscatter values evolve over time.
+
 **Learning objectives to be addes here**
 
-
-This section is designed for learners who are interested in detect extension of oil palm plantations, or deforestation with ALOS-2 - case study of Indonesia.
+## Key learning objectives:
+-   9.1 Basic of python for reading and visualizing ALOS-2 images
+-   9.2 Interpretation of forest and oil palm areas (comparison with optical observations)
+-   9.3 Browsing time-series observation on forest and oil palm area
 
 ## Here is the content outline:
+
 
 - [9.1. Basic of python for reading and visualizing ALOS-2 images](subsections/00009/9.1.md)
 
@@ -21,6 +30,11 @@ This section is designed for learners who are interested in detect extension of 
 - [9.4 (Optional) Classification of forest and oil palm (if any)](subsections/00009/9.4.md)
 
 Link to the content (single JupyterNotebook)
+
+
+- [9. Enable ALOS-2 data processing to detect extension of oil palm plantations](subsections/00009/9.Enable%20ALOS-2%20data%20processing%20to%20detect%20extension%20of%20oil%20palm%20plantations_.ipynb)
+
+
 
 
 
