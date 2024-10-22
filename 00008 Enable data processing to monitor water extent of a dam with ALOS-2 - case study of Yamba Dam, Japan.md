@@ -8,11 +8,11 @@ By the end of this module, participants will be able to:
    - Gain an introduction to ALOS-2 Earth observation satellite data.
    - Learn how to read, process, and visualize ALOS-2 data using Python.
 
-2. **Water and Non-Water Classification in SAR Data**:
+2. **Classify Water and Non-Water area in SAR Data**:
    - Develop skills in classifying water and non-water areas using Synthetic Aperture Radar (SAR) data.
    - Learn how to apply threshold-based methods, such as Otsu’s method, for classification in Python.
 
-3. **Change Detection Using Time-Series Data**:
+3. **Detect Changing area Using Time-Series Data**:
    - Acquire hands-on experience in preparing and analyzing time-series satellite observations.
    - Learn how to detect and visualize changes over time at specific locations.
    - Understand how to interpret the results of change detection analyses.
