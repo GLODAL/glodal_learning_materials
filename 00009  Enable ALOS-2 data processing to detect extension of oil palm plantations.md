@@ -6,13 +6,7 @@ By the end of this module, participants will be able to:
 - Analyze land cover changes: use ALOS-2 imagery to identify and analyze land assess deforestation and oil palm expansion over different timescales (short-term, mid-term, and long-term) and detect significant changes through comparative analysis.
 
 ## Key learning objectives:
--   9.1 Basic of python for visualize SAR satellite images for tropical forest with oil palm plantations.
+-   9.1 Basic of python for visualize ALOS-2 satellite images for tropical forest with oil palm plantations.
 -   9.2 Detect areas of changes caused by oil palm plantations including comparisions with optical observations.
 
 The content is compiled into a single notebook; please access it here to practice this module.
-
-
-```python
-
-```
-
