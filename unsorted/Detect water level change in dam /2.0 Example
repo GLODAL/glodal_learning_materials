@@ -1,0 +1,6 @@
+%cd /home/jovyan/shared/Arissara/ALOS-2/Yamba/Finalize
+
+!wget --content-disposition "https://owncloud.glodal-inc.net/owncloud/index.php/s/fORunC9aDo38G5s/download"
+!unzip "Yamba.zip"
+!pip install rasterio matplotlib
+
